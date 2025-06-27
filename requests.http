@@ -1,0 +1,29 @@
+GET http://localhost:3000/books HTTP/1.1
+
+###NEW REQUEST
+
+GET http://localhost:3000/books/2 HTTP/1.1
+
+###NEW REQUEST
+
+POST http://localhost:3000/books HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "year": 1915
+}
+
+###NEW REQUEST
+
+PUT http://localhost:3000/books/1 HTTP/1.1
+Content-Type: application/json
+
+{
+    "year": 1925
+}
+
+###NEW REQUEST
+
+DELETE http://localhost:3000/books/3 HTTP/1.1

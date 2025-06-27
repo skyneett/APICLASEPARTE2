@@ -1,0 +1,21 @@
+10 NUEVOS APRENDIZAJES
+
+1. El uso de nodemon para no estar a cada rato activando y desactivando el servidor de Node.js es muy útil y ahorra tiempo de prueba.
+
+2. La creación y el uso de endpoints tipo CRUD para modificar, actualizar y eliminar datos en una API o, en este caso, en un archivo JSON.
+
+3. El uso de REST Client para verificar el funcionamiento adecuado de los endpoints en el código.
+
+4. Express simplifica la creación de servidores y el manejo de rutas HTTP, permitiendo desarrollar APIs de manera rápida y estructurada.
+
+5. La importancia de manejar correctamente los errores al leer o escribir archivos para evitar caídas inesperadas en la API.
+
+6. Aprendí a instalar paquetes usando npm para agregar funcionalidades a mis proyectos de Node.js.
+
+7. La diferencia entre los métodos HTTP (GET, POST, PUT, DELETE) y su uso en la manipulación de recursos.
+
+8. Ahora sé cómo iniciar un proyecto Node.js desde cero usando npm init.
+
+9. La conveniencia de usar IDs únicos e incrementales para identificar recursos dentro de una colección.
+
+10. La importancia de probar cada endpoint después de implementarlo para asegurar que la API responde correctamente y cumple con los requisitos.
